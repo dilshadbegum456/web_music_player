@@ -15,8 +15,9 @@
 <br />
 
 ### Demo Screeshots
+<img width="1920" height="920" alt="MP op" src="https://github.com/user-attachments/assets/52a9e385-3c26-432f-8b88-1be30248646b" />
 
-![Music Player Desktop Demo](MP op.png"Desktop Demo")
+
 
 ### Prerequisites
 
