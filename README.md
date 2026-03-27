@@ -1,6 +1,6 @@
 <div align="center">
   
-
+  !...
   <br />
   <br />
 
@@ -16,7 +16,7 @@
 
 ### Demo Screeshots
 
-![Music Player Desktop Demo]("C:\Users\LENOVO\Downloads\MP op.png""Desktop Demo")
+![Music Player Desktop Demo](MP op.png"Desktop Demo")
 
 ### Prerequisites
 
@@ -47,3 +47,4 @@ If you want to contact with me you can reach me at ....
 ### License
 
 This project is **free to use** and contain MIT license.
+
